@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  int number;
-  scanf("%d",&number);
+  int number=15;
   if(number>0)
     printf("Number is Positive");
   else if(number<0)
