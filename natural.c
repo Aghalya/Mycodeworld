@@ -6,5 +6,6 @@ int main() {
     output+=input;
     input--;
   }
+  printf("%d",output);
   return 0;
 }
